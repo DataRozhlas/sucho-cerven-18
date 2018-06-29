@@ -1,4 +1,4 @@
-title: "Písečná na Českokrumlovsku nebo Ivanovice na Hané. Podívejte se na mapu míst, kde nejvíc bojují se suchem"
+title: "Přísečná na Českokrumlovsku nebo Ivanovice na Hané. Podívejte se na mapu míst, kde nejvíc bojují se suchem"
 perex: "Vyschlá půda se podepisuje zejména na stavu rostlin, voda nechybí jen zemědělcům, ale i zahrádkářům. Kde je situace nejhorší, ukazuje interaktivní mapa."
 published: "2. červenec 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
