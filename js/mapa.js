@@ -60,7 +60,7 @@ source: new ol.source.VectorTile({
     format: new ol.format.MVT(),
     tileGrid: tilegrid,
     tilePixelRatio: 8,
-    url: 'http://data.irozhlas.cz/intersucho-map/tiles/{z}/{x}/{y}.pbf'
+    url: 'https://data.irozhlas.cz/intersucho-map/tiles/{z}/{x}/{y}.pbf'
 }),
     style: function(feature) {
         return getColor(feature.get('Kod'))
