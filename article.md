@@ -5,7 +5,7 @@ coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: ["https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.4.2/ol.css"]
 # snadné načítání csv: d3csv v libraries, d3.csv("soubor.csv").then(function(data){} ) v kódu
-libraries: [jquery, "https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.4.2/ol.js", "https://interaktivni.rozhlas.cz/data/data.js"] #jquery, d3, d3v5, d3csv, highcharts, datatables
+libraries: [jquery, "https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.4.2/ol.js"] #jquery, d3, d3v5, d3csv, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 <left>
