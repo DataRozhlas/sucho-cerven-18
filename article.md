@@ -5,7 +5,7 @@ coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: ["https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.4.2/ol.css"]
 # snadné načítání csv: d3csv v libraries, d3.csv("soubor.csv").then(function(data){} ) v kódu
-libraries: [jquery, "https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.4.2/ol.js"] #jquery, d3, d3v5, d3csv, highcharts, datatables
+libraries: [jquery, "https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.4.2/ol.js", "https://interaktivni.rozhlas.cz/data/data.js"] #jquery, d3, d3v5, d3csv, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 <left>
@@ -21,7 +21,7 @@ Výrazné sucho je celou dobu od začátku roku v Přísečné na Českokrumlovs
 
 Jeho slova potvrzují i odborníci. Obec totiž leží v takzvaném srážkovém stínu Šumavy, srážky od jihozápadu obvykle spadnou už v Bavorsku nebo Rakousku. „Nestihnou se zformovat takové srážky, aby zvládly zalít okolí Kleti,“ vysvětluje meteoroložka Eva Plášilová z ČHMÚ. „Myslím ale, že jižní Čechy jsou na tom relativně dobře,“ dodává s tím, že v jiných krajích je situace ještě horší.
 
-_Stav k minulému týdnu můžete prozkoumat v následující mapě_
+_Stav k poslednímu červnovému týdnu můžete prozkoumat v následující mapě_
 
 <wide>
 <div id="mapdiv">
